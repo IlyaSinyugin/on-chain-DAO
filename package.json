@@ -1,0 +1,9 @@
+{
+  "name": "on-chain-DAO",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "hardhat": "^2.10.2",
+    "prettier": "^2.7.1"
+  }
+}
